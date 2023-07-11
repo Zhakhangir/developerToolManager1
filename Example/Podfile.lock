@@ -1,0 +1,27 @@
+PODS:
+  - DeveloperToolManager1 (0.1.0)
+  - Nimble (10.0.0)
+  - Quick (2.2.1)
+
+DEPENDENCIES:
+  - DeveloperToolManager1 (from `../`)
+  - Nimble (~> 10.0.0)
+  - Quick (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  DeveloperToolManager1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DeveloperToolManager1: f67cf61b153f13f31cf31851e6fc88fe5bc387a5
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+
+PODFILE CHECKSUM: 410f93a80a8e4f70ff46521d4f137d7a4b2b6bb1
+
+COCOAPODS: 1.12.0

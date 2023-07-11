@@ -1,0 +1,22 @@
+{
+  "name": "DeveloperToolManager1",
+  "version": "0.1.0",
+  "summary": "A short description of DeveloperToolManager1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Жахангир Таиров/DeveloperToolManager1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Жахангир Таиров": "jahangirtairov123@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Жахангир Таиров/DeveloperToolManager1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DeveloperToolManager1/Classes/**/*"
+}

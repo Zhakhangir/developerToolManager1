@@ -1,0 +1,6 @@
+framework module Pods_DeveloperToolManager1_Example {
+  umbrella header "Pods-DeveloperToolManager1_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

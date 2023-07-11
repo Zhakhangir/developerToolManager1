@@ -1,0 +1,14 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'DeveloperToolManager1_Example' do
+  pod 'DeveloperToolManager1', :path => '../'
+
+  target 'DeveloperToolManager1_Tests' do
+    inherit! :search_paths
+
+    pod 'Quick', '~> 2.2.0'
+    pod 'Nimble', '~> 10.0.0'
+  end
+end
